@@ -1,0 +1,17 @@
+Microsoft Windows Driver Kit (WDK) for Windows 10.0.10586.0
+
+WDK: http://download.microsoft.com/download/C/E/1/CE19C726-6036-4443-845B-A652B0F48CD7/wdk/wdksetup.exe
+
+40d65a88fd47e89614062bddd9112400d904ad95 *WDK\Installers\Arm Debuggers And Tools-arm_en-us.msi
+3802114ee139df4da4dbe2590549d12e143413c5 *WDK\Installers\Arm64 Debuggers And Tools-arm_en-us.msi
+5f7d14c65fa44c3d1200579130bd5ec50106e9a0 *WDK\Installers\X64 Debuggers And Tools-x64_en-us.msi
+4266eaf8fe07fb365c0cdba1c1cfebde25259690 *WDK\Installers\X86 Debuggers And Tools-x86_en-us.msi
+
+x86
+http://download.microsoft.com/download/C/E/1/CE19C726-6036-4443-845B-A652B0F48CD7/wdk/Installers/X86%20Debuggers%20And%20Tools-x86_en-us.msi
+x64
+http://download.microsoft.com/download/C/E/1/CE19C726-6036-4443-845B-A652B0F48CD7/wdk/Installers/X64%20Debuggers%20And%20Tools-x64_en-us.msi
+Arm
+http://download.microsoft.com/download/C/E/1/CE19C726-6036-4443-845B-A652B0F48CD7/wdk/Installers/Arm%20Debuggers%20And%20Tools-arm_en-us.msi
+Arm64
+http://download.microsoft.com/download/C/E/1/CE19C726-6036-4443-845B-A652B0F48CD7/wdk/Installers/Arm64%20Debuggers%20And%20Tools-arm_en-us.msi
